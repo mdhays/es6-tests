@@ -1,3 +1,4 @@
+// Use strict is required because we're using ES6.
 "use strict";
 var expect = require('chai').expect;
 
